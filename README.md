@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My name is Caiden
+
+I'm currently attending Wright State University and I'm getting my bachelors in Computer Science 
+Im currently working on learning how to use powershell as well as Java
 
 
 McDonalds 
